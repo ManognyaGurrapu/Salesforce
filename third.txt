@@ -1,0 +1,3 @@
+Click on the “Branch: main” button on your repository’s homepage.
+Type in a name for your new branch and click “Create branch”.
+Your new branch is now created and you can start making changes to it.
