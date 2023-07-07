@@ -1,0 +1,5 @@
+Make changes to your new branch and push them to the remote repository.
+On your repository’s homepage, click on the “Pull Requests” tab and then click “New Pull Request”.
+Select the branch you want to merge your changes into and click “Create Pull Request”.
+Review your changes and add a description if necessary.
+Click “Create Pull Request” again to submit your pull request.
